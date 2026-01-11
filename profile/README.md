@@ -7,22 +7,22 @@
 </p>
 
 ### Who Am I
-I'm Xlevn, an aspiring Cybersecurity Researcher & student currently pursuing my studies in **Higher-Nitec in Cyber & Network Security** at **ITE College Central**. I am dedicated to understanding the intricacies of offensive security, exploring system vulnerabilities, and building secure infrastructure.
+I'm Xlevn, a Computer Science student at **Massachusetts Institute of Technology (MIT)** with strong interests in **Systems**, **Security**, and **Software Engineering**. I focus on building robust, efficient software while developing a deep understanding of how systems work under the hood—from operating systems to networks & distributed architectures.
 
 ---
 ### What I Do
-- [x] **Internship Experience:** Contributed to the product design & codebase of [**CyPenPoint**](https://www.custodiotech.com.sg/cypenpoint) during my time at [**Custodio Technologies**](https://www.custodiotech.com.sg/).
-- [x] **Offensive Tooling:** Developed hardware & software tools, including a custom **Keystroke Injector** for security testing.
-- [x] **Lab Development:** Created a vulnerable Virtual Machine (similar to [**HackTheBox**](https://www.hackthebox.com/) challenges) to simulate real-world attack vectors.
+- [x] **Computer Science Foundations:** Actively studying algorithms, data structures, computer systems, and software design.
+- [x] **Systems & Security:** Exploring low-level programming, operating systems, and security concepts such as memory safety, exploit mitigation, and network protocols.
+- [x] **Software Engineering:** Building full-stack and systems-level projects with an emphasis on performance, correctness, and maintainability.
 - [x] **Vulnerability Research:** Actively studying exploit development & network defense strategies.
-- [x] **CTFs:** Competed in various CTFs such as DSTA BrainHack, GreyCatTheFlag, BlahajCTF, and TISC.
+- [x] **CTFs:** Competed in various CTFs such as PlaidCTF, GreyCatTheFlag, BlahajCTF, and many others.
 
 ---
 ### Core Principles
 
 | Principle          | Description                                           |
 | ------------------ | ----------------------------------------------------- |
-| **Depth First** | I strive to understand the root cause, not just the symptoms.   |
+| **First Principles** | Breaking problems down to fundamentals before building up.   |
 | **Quality Over Noise** | Prioritizing practical, working solutions over slop.      |
 | **Growth Obsessed** | Embracing continuous learning in the fast-paced cyber landscape.       |
 
@@ -41,5 +41,5 @@ For collaboration inquiries, project discussions, or just to connect, feel free 
 
 ---
 <p align="center">
-  <strong>Cybersecurity – like eating & breathing – is one of life's basic requirements</strong>
+  <strong>I work to support my hobby - Xlevn</strong>
 </p>
