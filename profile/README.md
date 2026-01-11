@@ -7,7 +7,7 @@
 </p>
 
 ### Who Am I
-I'm Xlevn, a Computer Science student at **Massachusetts Institute of Technology (MIT)** with strong interests in **Systems**, **Security**, and **Software Engineering**. I focus on building robust, efficient software while developing a deep understanding of how systems work under the hood—from operating systems to networks & distributed architectures.
+I'm Xlevn, a **Computer Science** student at **Massachusetts Institute of Technology (MIT)** with strong interests in **Systems**, **Security**, and **Software Engineering**. I focus on building robust, efficient software while developing a deep understanding of how systems work under the hood—from operating systems to networks & distributed architectures.
 
 ---
 ### What I Do
